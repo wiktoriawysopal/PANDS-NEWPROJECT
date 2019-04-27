@@ -32,3 +32,8 @@ print(dataset.groupby('Class').size())
 
 #Descriptive stats for Iris setosa
 print(dataset.describe())
+
+#Histograms generated in Matplot Library
+dataset.hist()
+
+plt.show()
