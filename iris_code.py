@@ -31,5 +31,4 @@ print(dataset.tail(5))
 print(dataset.groupby('Class').size())
 
 #Descriptive stats for Iris setosa
-print(dataset.describe(0:50))
-
+print(dataset.describe())
