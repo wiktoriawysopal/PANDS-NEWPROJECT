@@ -38,3 +38,11 @@ print(dataset.describe())
 dataset.hist()
 
 plt.show()
+
+#Boxplots generated in Matplit Library
+dataset.plot(kind='box', subplots=True, layout=(2,2), sharex=False, sharey=False)
+plt.show()
+
+#Scatter plot matrix
+scatter_matrix(dataset)
+plt.show()
