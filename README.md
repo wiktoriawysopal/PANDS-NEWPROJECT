@@ -8,7 +8,15 @@ Institute: Galway-Mayo Instituete of Technology, Ireland
 
 # INSTRUCTIONS:
 
-1. Download the data set and write some Python code to investigate it. 
+1. This repository consist of several files:  
+* .gitignore
+* LICENSE
+* README.md
+* iris.csv
+* iris_code.py
+* project.pdf  
+
+
 The data set was downloaded from publicly available source UCI Machine Learning repository: https://archive.ics.uci.edu/ml/datasets/iris. The data was accessed by following tutorial on the machinelearningmastery website. In this case the data was loaded by using website URL. In the first approach the data was downloaded as a .csv file however in the further analysis it caused probolems.
 
 
