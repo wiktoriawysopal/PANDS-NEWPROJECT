@@ -1,4 +1,4 @@
-# Load libraries 
+# All the libraries imported which are needed to execute python program
 import numpy as np
 import pandas
 from pandas.plotting import scatter_matrix
