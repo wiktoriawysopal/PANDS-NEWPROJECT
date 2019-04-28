@@ -33,14 +33,15 @@ The data set is from one of the research papers written by Fisher in 1936. In th
 ### What is the purpose of this data set?
 One could think that this data set is for biologist only. Several sources (Ritchieng and Technopedia) say that this data set is famous for machine learning, because it is easy to predict. It is an example of traditional resource which is widely used in computer science for testing purposes.
 
-4. The summary of the project shows the maximum, minimum and
-mean of each column of the data set.
+## Summary of the data set  
+The summary of the data set shows the maximum, minimum and mean of each column of the data set.
 
+## Summary of the project investigation
 
-
-5. Write a summary of your investigations.
-
+## Data Visualization
 6. Include supporting tables and graphics as you deem necessary.
+
+## Extra information and additional material
 
 ## Reference list:
 [Famous scientist](https://www.famousscientists.org/ronald-fisher/)  
