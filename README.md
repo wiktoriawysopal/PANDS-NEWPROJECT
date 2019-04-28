@@ -27,10 +27,12 @@ The python script is saved in this folder as iris_code.py. It can be run in any 
 
 ### Who is Ronald Fisher? 
 Ronal Aylemer Fisher was one of the greatest scientists of 20th centuary. He specialised in statistics and genetics. He contributed to the world of statistics by creating several methods of analysing the data, such as ANOVA, hypothesis testing and f distribution. He also published several books about statistical research methods, the theory of natural selection and origin of species.   
-       ![Ronald Fisher](https://www.ecured.cu/images/0/09/Sir_Ronald_Fisher_2.jpg)
+![Ronald Fisher](https://www.ecured.cu/images/0/09/Sir_Ronald_Fisher_2.jpg)
 
 ### What information data set contains?
-The data set is from one of the research papers written by Fisher in 1936. In the computer science field it is known as "Iris Flower Data Set". It describes characteristics of iris flower.This data set consist of 150 samples (50 samples from each flower type) The data set contains 4 different attributes. These 4 attributes represent: sepal length, sepal witdh, petal length and petal width. Additionally the data contains of one more column which tells us the type of iris flower, there are 3 different types Setosa, Versicolour and Virginica.
+The data set is from one of the research papers written by Fisher in 1936. In the computer science field it is known as "Iris Flower Data Set". It describes characteristics of iris flower.This data set consist of 150 samples (50 samples from each flower type) The data set contains 4 different attributes. These 4 attributes represent: sepal length, sepal witdh, petal length and petal width. Additionally the data contains of one more column which tells us the type of iris flower, there are 3 different types Setosa, Versicolour and Virginica.)  
+
+![Types of Iris](https://i1.wp.com/dataaspirant.com/wp-content/uploads/2017/01/irises.png?w=600)
 
 ### What is the purpose of this data set?
 One could think that this data set is for biologist only. Several sources (Ritchieng and Technopedia) say that this data set is famous for machine learning, because it is easy to predict. It is an example of traditional resource which is widely used in computer science for testing purposes.
