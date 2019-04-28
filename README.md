@@ -19,8 +19,8 @@ This repository consist of several files:
 
 The data set was downloaded from publicly available source UCI Machine Learning repository: https://archive.ics.uci.edu/ml/datasets/iris. The data was accessed by following tutorial on the machinelearningmastery website. In this case the data was loaded by using website URL. In the first approach the data was downloaded as a .csv file, which is included in this repository however in the further analysis it caused problems.  
 Anyone who wants to use this code should get familair with the dataset and project description available in this repository in the pdf file.  
-In order to execute the python program the user should download the dataset and install a python program on the computer. It is recommended to dowload the anaconda version, since it include needed librarries such as PANDAS, NumPy and Matplot.    
-The python script is saved in this folder as iris_code.py. It can be run in any terminal such as built-in powershell in visual studio code or commander. User needs to download the file and saved on its own computer. To run the code simply type python iris_code.py in the interpreter and press enter.  
+In order to execute the python program the user should download the dataset and install a python program on the computer. The dataset can be downloaded directly from this respository. Also it is recommended to download the Anaconda version with python, since it include needed librarries such as PANDAS, NumPy and Matplot.    
+The python script is saved in this folder as iris_code.py. It can be run in any terminal such as built-in powershell in visual studio code or commander. User needs to download the file and save on its own computer. To run the code simply type python iris_code.py in the interpreter and press enter.  
 
 
 ## 1. Background information about the data set
@@ -41,7 +41,11 @@ The summary of the data set shows the maximum, minimum and mean of each column o
 The main aim of this project is to analyse the dataset by using python programming language and writing a python code for it.
 
 ## Data Visualization
-6. Include supporting tables and graphics as you deem necessary.
+This section provides graphics generated with the python code (iris_code.py) woth the help of the Matplot Library.
+### 1.Histograms  
+![Figure_1](https://user-images.githubusercontent.com/47478462/56869563-12395b00-69fa-11e9-8fe4-33e172fe7dc3.png)
+### 2.Boxplots  
+### 3.Scatterplot Matrix  
 
 ## Extra information and additional material
 
