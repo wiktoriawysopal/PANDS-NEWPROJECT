@@ -37,11 +37,11 @@ The data set is from one of the research papers written by Fisher in 1936. In th
 ### What is the purpose of this data set?
 One could think that this data set is for biologist only. Several sources (Ritchieng and Technopedia) say that this data set is famous for machine learning, because it is easy to predict. It is an example of traditional resource which is widely used in computer science for testing purposes.
 
+## Summary of the project investigation
+The main aim of this project is to analyse the dataset by using python programming language and writing a python code for it. By doing the research about this data set it has been found that those who analysed this before, focused on calculating basic statistics such as mean, standard deviation, max. and min value of each column. Also the python code for previewving the data was applied as well as class distribution. Therefore the python program for this project calculates the above. 
+
 ## Summary of the data set  
 The summary of the data set shows the maximum, minimum and mean of each column of the data set.
-
-## Summary of the project investigation
-The main aim of this project is to analyse the dataset by using python programming language and writing a python code for it.
 
 ## Data Visualization
 This section provides graphics generated with the python code (iris_code.py) with the help of the Matplot Library.
