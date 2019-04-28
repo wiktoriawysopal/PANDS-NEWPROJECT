@@ -26,6 +26,7 @@ The python script is saved in this folder as iris_code.py. It can be run in any 
 ## 1. Background information about the data set
 
 ### Who is Ronald Fisher? 
+![Ronald Fisher](http://www.42evolution.org/wp-content/uploads/2014/07/Ronald-Fisher-from-Royal-Society.jpg)
 Ronal Aylemer Fisher was one of the greatest scientists of 20th centuary. He specialised in statistics and genetics. He contributed to the world of statistics by creating several methods of analysing the data, such as ANOVA, hypothesis testing and f distribution. He also published several books about statistical research methods, the theory of natural selection and origin of species. 
 
 ### What information data set contains?
@@ -41,7 +42,7 @@ The summary of the data set shows the maximum, minimum and mean of each column o
 The main aim of this project is to analyse the dataset by using python programming language and writing a python code for it.
 
 ## Data Visualization
-This section provides graphics generated with the python code (iris_code.py) woth the help of the Matplot Library.
+This section provides graphics generated with the python code (iris_code.py) with the help of the Matplot Library.
 ### 1.Histograms  
 ![Figure_1](https://user-images.githubusercontent.com/47478462/56869563-12395b00-69fa-11e9-8fe4-33e172fe7dc3.png)
 ### 2.Boxplots  
