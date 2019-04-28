@@ -40,7 +40,11 @@ One could think that this data set is for biologist only. Several sources (Ritch
 [Ritchieng](https://www.ritchieng.com/machine-learning-iris-dataset/)  
 [Techopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)  
 [Machinelearning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
-[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)  
+[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html) 
+[Towards Science](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)  
+[Medium](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)  
+[Markdow cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Iris dataset - classification](https://stackoverflow.com/questions/53077801/iris-dataset-machine-learning-classification-model)  
 
 
 
