@@ -33,7 +33,16 @@ The data set is from one of the research papers written by Fisher in 1936. In th
 ### What is the purpose of this data set?
 One could think that this data set is for biologist only. Several sources (Ritchieng and Technopedia) say that this data set is famous for machine learning, because it is easy to predict. It is an example of traditional resource which is widely used in computer science for testing purposes.
 
-## 2. Reference list:
+4. The summary of the project shows the maximum, minimum and
+mean of each column of the data set.
+
+
+
+5. Write a summary of your investigations.
+
+6. Include supporting tables and graphics as you deem necessary.
+
+## Reference list:
 [Famous scientist](https://www.famousscientists.org/ronald-fisher/)  
 [Kaggle](https://www.kaggle.com/arshid/iris-flower-dataset)  
 [Scikit-learn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)  
@@ -44,16 +53,4 @@ One could think that this data set is for biologist only. Several sources (Ritch
 [Towards Science](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)  
 [Medium](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)  
 [Markdow cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-[Iris dataset - classification](https://stackoverflow.com/questions/53077801/iris-dataset-machine-learning-classification-model)  
-
-
-
-
-4. The summary of the project shows the maximum, minimum and
-mean of each column of the data set.
-
-
-
-5. Write a summary of your investigations.
-
-6. Include supporting tables and graphics as you deem necessary.
+[Iris dataset - classification](https://stackoverflow.com/questions/53077801/iris-dataset-machine-learning-classification-model) 
