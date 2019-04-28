@@ -42,12 +42,12 @@ The main aim of this project is to analyse the dataset by using python programmi
 
 ## 3. Summary of the data set  
 The summary of the data set shows the maximum, minimum and mean of each column of the data set.
-| Sepal Length | Sepal Width | Petal Length | Petal Width 
-| --- |--- | --- | ---
-**Max** | 
-**Min**  |
-**Mean**  |
-**St.dev**|
+|        | Sepal L  | Sepal W  | Petal L  | Petal W  |
+|--------|----------|----------|----------|----------|
+| Min.   | 4.300000 | 2.000000 | 1.000000 | 0.100000 |
+| Max.   | 7.900000 | 4.400000 | 6.900000 | 2.500000 |
+| Mean   | 5.84333  | 3.054000 | 3.758667 | 1.198667 |
+| St.dev | 0.828066 | 0.433594 | 1.764420 | 0.763161 |
 
 
 ## 4. Data Visualization
@@ -73,3 +73,4 @@ This section provides graphics generated with the python code (iris_code.py) wit
 [Medium](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342)  
 [Markdow cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [Iris dataset - classification](https://stackoverflow.com/questions/53077801/iris-dataset-machine-learning-classification-model) 
+[Table Generator](https://www.tablesgenerator.com/markdown_tables)
