@@ -62,7 +62,7 @@ This section provides graphics generated with the python code (iris_code.py) wit
 ## 5. Extra information and additional material
 While fullfilling this project I came across several difficulties. One of them was problem with commiting my changes to GitHub repository through comander interpreter. I tried the git push command and I had several errors. This project requires reasonable github commit history, even though I tried to solve this error it did not work for me. For this reason I decided to take some screenshots from git log command and combine them into the pdf file, which can be found in this repository, to show the extended commit history.  
 
-Moreover, I found the solution to my project on the last day of the deadline. I downloaded the GitHub Desktop app on my laptopo and this helped me to manage all my repository, commit all the changes and push them into the master repository.  
+Moreover, I found the solution to my project on the last day of the deadline. I downloaded the GitHub Desktop app on my laptop and this helped me to manage all my repositories, commit all the changes and push them into the master repository.  
 
 Finally, the referencing style was not specified. Universities use different references types such as APA or Harvard. For this reason I just included the list of sources I used while aquiring this project, since I am not familiar with referencing method at GMIT.  
 
