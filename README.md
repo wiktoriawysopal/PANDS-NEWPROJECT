@@ -23,13 +23,13 @@ The data set is from one of the research papers written by Fisher in 1936. In th
 One could think that this data set is for biologist only. Several sources (Ritchieng and Technopedia) say that this data set is famous for machine learning, because it is easy to predict. It is an example of traditional resource which is widely used in computer science for testing purposes.
 
 ## 2. Reference list:
-[Famous scientist](https://www.famousscientists.org/ronald-fisher/)
-[Kaggle](https://www.kaggle.com/arshid/iris-flower-dataset)
-[Scikit-learn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
-[Ritchieng](https://www.ritchieng.com/machine-learning-iris-dataset/)
-[Techopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)
-[Machinelearning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+[Famous scientist](https://www.famousscientists.org/ronald-fisher/)  
+[Kaggle](https://www.kaggle.com/arshid/iris-flower-dataset)  
+[Scikit-learn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)  
+[Ritchieng](https://www.ritchieng.com/machine-learning-iris-dataset/)  
+[Techopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)  
+[Machinelearning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
+[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)  
 
 
 3. Download the data set and write some Python code to investigate it. 
