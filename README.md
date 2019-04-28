@@ -1,17 +1,20 @@
 # PANDS-NEWPROJECT
 New repository for programming and scripting project
 
-Wiktoria Wysopal, 23rd of April 2019
-Module: Programming and Scripting - Project
-Degree: Higher Diploma in Data Analytics
-Institute: Galway-Mayo Instituete of Technology, Ireland
+Wiktoria Wysopal, 23rd of April 2019  
+Module: Programming and Scripting - Project  
+Degree: Higher Diploma in Data Analytics  
+Institute: Galway-Mayo Instituete of Technology, Ireland  
 
 # INSTRUCTIONS:
 
+1. Download the data set and write some Python code to investigate it. 
+The data set was downloaded from publicly available source UCI Machine Learning repository: https://archive.ics.uci.edu/ml/datasets/iris. The data was accessed by following tutorial on the machinelearningmastery website. In this case the data was loaded by using website URL. In the first approach the data was downloaded as a .csv file however in the further analysis it caused probolems.
 
 
 
-1. Background information about the data set
+
+## 1. Background information about the data set
 
 ### Who is Ronald Fisher? 
 Ronal Aylemer Fisher was one of the greatest scientists of 20th centuary. He specialised in statistics and genetics. He contributed to the world of statistics by creating several methods of analysing the data, such as ANOVA, hypothesis testing and f distribution. He also published several books about statistical research methods, the theory of natural selection and origin of species. 
@@ -32,8 +35,7 @@ One could think that this data set is for biologist only. Several sources (Ritch
 [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)  
 
 
-3. Download the data set and write some Python code to investigate it. 
-The data set was downloaded from publicly available source UCI Machine Learning repository: https://archive.ics.uci.edu/ml/datasets/iris. The data was accessed by following tutorial on the machinelearningmastery website. In this case the data was loaded by using website URL. In the first approach the data was downloaded as a .csv file however in the further analysis it caused probolems.
+
 
 4. The summary of the project shows the maximum, minimum and
 mean of each column of the data set.
