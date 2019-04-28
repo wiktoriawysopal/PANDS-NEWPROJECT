@@ -45,7 +45,9 @@ This section provides graphics generated with the python code (iris_code.py) wot
 ### 1.Histograms  
 ![Figure_1](https://user-images.githubusercontent.com/47478462/56869563-12395b00-69fa-11e9-8fe4-33e172fe7dc3.png)
 ### 2.Boxplots  
+![Figure_2](https://user-images.githubusercontent.com/47478462/56869650-e8ccff00-69fa-11e9-9c94-15bf09ed1a89.png)
 ### 3.Scatterplot Matrix  
+![Figure_3](https://user-images.githubusercontent.com/47478462/56869651-ef5b7680-69fa-11e9-9dc6-09fe63280a61.png)
 
 ## Extra information and additional material
 
