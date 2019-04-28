@@ -39,7 +39,7 @@ dataset.hist()
 
 plt.show()
 
-#Boxplots generated in Matplit Library
+#Boxplots generated in Matplot Library
 dataset.plot(kind='box', subplots=True, layout=(2,2), sharex=False, sharey=False)
 plt.show()
 
