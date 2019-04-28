@@ -41,7 +41,7 @@ One could think that this data set is for biologist only. Several sources (Ritch
 The main aim of this project is to analyse the dataset by using python programming language and writing a python code for it. By doing the research about this data set it has been found that those who analysed this before, focused on calculating basic statistics such as mean, standard deviation, max. and min value of each column. Also the python code for previewving the data was applied as well as class distribution. Therefore the python program for this project calculates the above. 
 
 ## 3. Summary of the data set  
-The summary of the data set shows the maximum, minimum and mean of each column of the data set.  
+The summary of the data set shows the maximum, minimum, mean and standard deviation of each column of the data set.  
 
 |        	| Sepal L  	| Sepal W  	| Petal L  	| Petal W  	|
 |--------	|----------	|----------	|----------	|----------	|
